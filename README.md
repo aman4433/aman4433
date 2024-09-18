@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Shrivastava</h1>
-<h3 align="center">A DevOps Enthusiast from India</h3>
+<h3 align="center">A DevOps and Cloud Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman4433&label=Profile%20views&color=0e75b6&style=flat" alt="aman4433" /> </p>
 
-- 🔭 I’m currently working with **Cognizant Technology Solutions**
+- 🔭 I’m currently working with **IBM**
 
-- 🌱 I’m currently learning **Terraform, Ansible, Prometheus**
-
-- 🤝 I’m looking for help with **Securing New Job Opportunities**
+- 🌱 I’m currently learning **Openshift**
 
 - 💬 Ask me about **CI/CD Pipelines, Aws Cloud, Infrastructure Automation and Linux**
 
