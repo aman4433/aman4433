@@ -12,7 +12,7 @@ I'm driven by curiosity, community, and clean YAML.
 ## 🌱 Interests
 
 - 🧩 Automating everything that can be automated  
-- ☁️ Cloud-native tooling (Kubernetes, OpenShift, etcd, Operators)  
+- ☁️ Cloud-native tooling (Kubernetes, OpenShift, ETCD, Operators)  
 - 🛠 Observability and Reliability Engineering  
 - 🧪 Writing Ansible, breaking clusters, and fixing them again  
 - 📚 Mentoring juniors, learning from seniors, and giving back
